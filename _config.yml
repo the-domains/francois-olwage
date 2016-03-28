@@ -1,0 +1,28 @@
+name: Francois Olwage
+favicon: null
+layout_spectrum: 0.8312256257049739
+typography_spectrum: 0.06464481842704117
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6199191731866449
+  lightness: 0.15416203392669559
+  saturation: 0.667160167824477
+  rhythmicContrast: 0.9378339634276927
+purpose: []
