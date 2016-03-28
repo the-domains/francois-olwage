@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Francois Olwage]]></title>
+        <description><![CDATA[Francois Olwage]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Mar 2016 07:30:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Adventure is an essential ingredient to a healthy life. What does your adventure look like?</p>]]></description>
+            <link>undefined20aa5d9f-1970-4933-8039-6c5f29eb7dbc/index.html</link>
+            <guid isPermaLink="false">20aa5d9f-1970-4933-8039-6c5f29eb7dbc</guid>
+            <pubDate>Mon, 28 Mar 2016 07:29:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
