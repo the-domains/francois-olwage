@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Francois Olwage]]></title>
         <description><![CDATA[Francois Olwage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/francois-olwage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 07:30:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 07:36:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/francois-olwage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/francois-olwage/52aacff4-4bdc-4ae2-a29a-39b7e6defcf9/index.html</link>
+            <guid isPermaLink="false">52aacff4-4bdc-4ae2-a29a-39b7e6defcf9</guid>
+            <pubDate>Mon, 28 Mar 2016 07:36:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Adventure is an essential ingredient to a healthy life. What does your adventure look like?</p>]]></description>
-            <link>undefined20aa5d9f-1970-4933-8039-6c5f29eb7dbc/index.html</link>
+            <link>https://thegrid.ai/francois-olwage/20aa5d9f-1970-4933-8039-6c5f29eb7dbc/index.html</link>
             <guid isPermaLink="false">20aa5d9f-1970-4933-8039-6c5f29eb7dbc</guid>
             <pubDate>Mon, 28 Mar 2016 07:29:56 GMT</pubDate>
         </item>
